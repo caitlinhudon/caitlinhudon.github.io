@@ -1,2 +1,4 @@
 name: Caitlin Hudon, Data + Analytics
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
